@@ -1,5 +1,2 @@
-abc 
 
 demonstrating the staging area.
-
-xxyyzz
